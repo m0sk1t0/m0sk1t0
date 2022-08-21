@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0sk1t0
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...C++
+- 🌱 I’m currently learning ...Visual Studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...tim@timstone.je
 
